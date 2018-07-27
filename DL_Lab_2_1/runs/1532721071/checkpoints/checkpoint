@@ -1,0 +1,4 @@
+model_checkpoint_path: "/Users/marcpepperman/Desktop/DeepLearning_ICP_CS490/DL Lab 2 Team 24/DL_Lab_2_1/runs/1532721071/checkpoints/model-300"
+all_model_checkpoint_paths: "/Users/marcpepperman/Desktop/DeepLearning_ICP_CS490/DL Lab 2 Team 24/DL_Lab_2_1/runs/1532721071/checkpoints/model-100"
+all_model_checkpoint_paths: "/Users/marcpepperman/Desktop/DeepLearning_ICP_CS490/DL Lab 2 Team 24/DL_Lab_2_1/runs/1532721071/checkpoints/model-200"
+all_model_checkpoint_paths: "/Users/marcpepperman/Desktop/DeepLearning_ICP_CS490/DL Lab 2 Team 24/DL_Lab_2_1/runs/1532721071/checkpoints/model-300"
